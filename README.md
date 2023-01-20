@@ -1,5 +1,5 @@
 # guru2_ios_project
-![스크린샷 2023-01-20 오후 9.17.06.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/48e15405-68b1-489a-9ee3-d596b31d755b/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-01-20_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_9.17.06.png)
+
 ### Flow
 
 ### 1. 운전 시작
